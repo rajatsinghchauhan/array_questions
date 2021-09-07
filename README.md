@@ -1,1 +1,1 @@
-heloo here you can find questions on array
+hello here you can find questions on array
